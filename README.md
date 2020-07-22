@@ -16,5 +16,5 @@ I've worked on some pretty awesome projects, but they're all closed door so that
 
 - 🔭 I’m currently working on some secret projects.
 - 🌱 I’m currently learning
-- 📫 How to reach me: Twitter 🐦
+- 📫 How to reach me:  <a href="https://twitter.com/markbattistella">Twitter 🐦</a>
 - ⚡ Fun fact: I really like astrophotography - I've tried but too much light pollution
