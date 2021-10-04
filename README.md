@@ -48,7 +48,7 @@ I have a couple of "books" in the Apple Book Store, which really aren't books bu
 
 ### Where to find me
 
-[![Bio.link](https://img.shields.io/badge/bio.link-markbattistella-ff5858?style=for-the-badge&logo=amp)](https://bio.link/markbattistella)
+[![Bio.link](https://img.shields.io/badge/bio.link-markbattistella-ff5858?style=for-the-badge&logo=biolink)](https://bio.link/markbattistella)
 
 [![Website](https://img.shields.io/badge/website-markbattistellafilms.com-0076D6?style=for-the-badge&logo=internetexplorer)](https://markbattistellafilms.com)
 
