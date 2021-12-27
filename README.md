@@ -20,7 +20,7 @@ Recently I've been dabbling more intently into coding, mainly Swift and SwiftUI.
 
 - [**Exposure VIC app**](https://github.com/markbattistella/exposure-vic)<br>An iOS app that shows current exposure sites in Victoria, Australia
 
-- [**Exposure VIC api**](https://github.com/markbattistella/exposure-vic-api)<br>A backend system that takes the Data VIC json, geocodes the locations, and merges into the original json
+- [**Exposure VIC api**](https://github.com/markbattistella/exposure-vic-api) *(archived)*<br>A backend system that takes the Data VIC json, geocodes the locations, and merges into the original json
 
 ### What I've worked on
 
