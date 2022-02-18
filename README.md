@@ -18,6 +18,8 @@ Recently I've been dabbling more intently into coding, mainly Swift and SwiftUI.
 
 ### Showcase items
 
+- [**PT Near Me app**](https://apps.apple.com/au/app/pt-near-me/id1598222252)<br>A public transport app for Victoria, Australia where you can see closest transport, save favourites, and set reminders
+
 - [**Exposure VIC app**](https://github.com/markbattistella/exposure-vic)<br>An iOS app that shows current exposure sites in Victoria, Australia
 
 - [**Exposure VIC api**](https://github.com/markbattistella/exposure-vic-api) *(archived)*<br>A backend system that takes the Data VIC json, geocodes the locations, and merges into the original json
