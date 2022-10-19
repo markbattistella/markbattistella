@@ -22,7 +22,7 @@ Recently I've been dabbling more intently into coding, mainly Swift and SwiftUI.
 
 - [**Serial Box app**](https://apple.co/3giwxCq)<br>Safely store all your serials, cheat codes, or anything without relying on a subscription service
 
-- [**PT Near Me app**](https://apps.apple.com/au/app/pt-near-me/id1598222252)<br>A public transport app for Victoria, Australia where you can see closest transport, save favourites, and set reminders
+- [**PT Near Me app**](https://apple.co/3Tfp05J)<br>A public transport app for Victoria, Australia where you can see closest transport, save favourites, and set reminders
 
 - [**Exposure VIC app**](https://github.com/markbattistella/exposure-vic)<br>An iOS app that shows current exposure sites in Victoria, Australia
 
