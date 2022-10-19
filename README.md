@@ -20,7 +20,7 @@ Recently I've been dabbling more intently into coding, mainly Swift and SwiftUI.
 
 - [**Get Local app**](https://apple.co/3s4w0Xr)<br>A localisation tool made to translate Xcloc files into over 100 languages. Export your localisations from Xcode, Get Local, and re-import
 
-- [**Serial Box app**](https://apple.co/3s4w0Xr)<br>Safely store all your serials, cheat codes, or anything without relying on a subscription service
+- [**Serial Box app**](https://apple.co/3giwxCq)<br>Safely store all your serials, cheat codes, or anything without relying on a subscription service
 
 - [**PT Near Me app**](https://apps.apple.com/au/app/pt-near-me/id1598222252)<br>A public transport app for Victoria, Australia where you can see closest transport, save favourites, and set reminders
 
