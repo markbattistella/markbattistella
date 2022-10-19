@@ -18,11 +18,13 @@ Recently I've been dabbling more intently into coding, mainly Swift and SwiftUI.
 
 ### Showcase items
 
+- [**Get Local app**](https://apple.co/3s4w0Xr)<br>A localisation tool made to translate Xcloc files into over 100 languages. Export your localisations from Xcode, Get Local, and re-import
+
+- [**Serial Box app**](https://apple.co/3s4w0Xr)<br>Safely store all your serials, cheat codes, or anything without relying on a subscription service
+
 - [**PT Near Me app**](https://apps.apple.com/au/app/pt-near-me/id1598222252)<br>A public transport app for Victoria, Australia where you can see closest transport, save favourites, and set reminders
 
 - [**Exposure VIC app**](https://github.com/markbattistella/exposure-vic)<br>An iOS app that shows current exposure sites in Victoria, Australia
-
-- [**Exposure VIC api**](https://github.com/markbattistella/exposure-vic-api) *(archived)*<br>A backend system that takes the Data VIC json, geocodes the locations, and merges into the original json
 
 ### What I've worked on
 
