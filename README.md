@@ -40,7 +40,7 @@ But some of the personal things I've made are:
 
 - [**docsify-charty**](https://charty.docsify.markbattistella.com)<br>Add some cool ass charts to your documentation system to show off your data
 
-- [**docsify-autoHeaders**](https://autoHeaders.docsify.markbattistella.com)<br>Add the legal heading numbering to your documentation so you can point people to a reference number easily
+- [**docsify-autoHeaders**](https://autoheader.docsify.markbattistella.com)<br>Add the legal heading numbering to your documentation so you can point people to a reference number easily
 
 ### "Books"
 
