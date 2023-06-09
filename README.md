@@ -38,9 +38,9 @@ But some of the personal things I've made are:
 
 - [**gitrc**](https://github.com/markbattistella/gitrc)<br>Easily change between `.gitconfig` setups without destroying your old settings
 
-- [**docsify-charty**](https://markbattistella.github.io/docsify-charty-docs/)<br>Add some cool ass charts to your documentation system to show off your data
+- [**docsify-charty**](https://charty.docsify.markbattistella.com)<br>Add some cool ass charts to your documentation system to show off your data
 
-- [**docsify-autoHeaders**](https://markbattistella.github.io/docsify-autoHeaders/)<br>Add the legal heading numbering to your documentation so you can point people to a reference number easily
+- [**docsify-autoHeaders**](https://autoHeaders.docsify.markbattistella.com)<br>Add the legal heading numbering to your documentation so you can point people to a reference number easily
 
 ### "Books"
 
@@ -51,8 +51,6 @@ I have a couple of "books" in the Apple Book Store, which really aren't books bu
 - [**To The Ones That Got Away**](https://books.apple.com/us/book/to-the-ones-that-got-away/id1028779304)<br>A collection of images showing you can take decent images without spending a lot on expensive equipment
 
 ### Where to find me
-
-[![Bio.link](https://img.shields.io/badge/bio.link-markbattistella-ff5858?style=for-the-badge&logo=biolink)](https://bio.link/markbattistella)
 
 [![Website](https://img.shields.io/badge/website-markbattistellafilms.com-0076D6?style=for-the-badge&logo=internetexplorer)](https://markbattistellafilms.com)
 
