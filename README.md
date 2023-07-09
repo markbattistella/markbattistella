@@ -52,11 +52,7 @@ I have a couple of "books" in the Apple Book Store, which really aren't books bu
 
 ### Where to find me
 
-[![Website](https://img.shields.io/badge/website-markbattistellafilms.com-0076D6?style=for-the-badge&logo=internetexplorer)](https://markbattistellafilms.com)
-
-[![Twitter](https://img.shields.io/badge/Twitter-@markbattistella-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/markbattistella)
-
-[![Instagram](https://img.shields.io/badge/Instagram-@markbattistella-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/markbattistella)
+[![Website](https://img.shields.io/badge/website-markbattistella.com-0076D6?style=for-the-badge&logo=internetexplorer)](https://markbattistella.com)
 
 [![IMDb](https://img.shields.io/badge/IMDb-Mark%20Battistella-F5C518?style=for-the-badge&logo=imdb)](https://www.imdb.com/name/nm6546525)
 
