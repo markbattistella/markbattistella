@@ -1,59 +1,59 @@
-<div align="center">
-
 # Hi! I'm Mark Battistella
 
 I'm a video editor, cutting and coding through life
 
-</div>
+## Showcase items
 
-### About me
+### [macOS: Get Local](https://apple.co/3s4w0Xr)
 
-I'm from Melbourne, Australia 🦘.
+A localisation tool made to translate `.xcloc` files into over 100 languages. Export your localisations from Xcode, Get Local, and re-import
 
-I am a video editor with skills using Avid (ACSR Elite) and Adobe.
+### [iOS: Serial Box](https://apple.co/3giwxCq)
 
-Recently I've been dabbling more intently into coding, mainly Swift and SwiftUI. But I previously made Wordpress websites, and custom modules using PHP. I'm also pretty fluent in HTML and CSS.
+Safely store all your serials, cheat codes, or anything without relying on a subscription service
 
-:zap: **Fun fact:** I also try to do astrophotography
+### [iOS: PT Near Me](https://apple.co/3Tfp05J)
 
-### Showcase items
+A public transport app for Victoria, Australia where you can see closest transport, save favourites, and set reminders
 
-- [**Get Local app**](https://apple.co/3s4w0Xr)<br>A localisation tool made to translate Xcloc files into over 100 languages. Export your localisations from Xcode, Get Local, and re-import
+### [iOS: Exposure VIC](https://github.com/markbattistella/exposure-vic)
 
-- [**Serial Box app**](https://apple.co/3giwxCq)<br>Safely store all your serials, cheat codes, or anything without relying on a subscription service
+An iOS app that shows current COVID-19 exposure sites in Victoria, Australia
 
-- [**PT Near Me app**](https://apple.co/3Tfp05J)<br>A public transport app for Victoria, Australia where you can see closest transport, save favourites, and set reminders
+## Open source projects
 
-- [**Exposure VIC app**](https://github.com/markbattistella/exposure-vic)<br>An iOS app that shows current exposure sites in Victoria, Australia
+### [BezelKit](https://github.com/markbattistella/BezelKit)
 
-### What I've worked on
+BezelKit is a Swift package designed to simplify the process of accessing device-specific bezel sizes in apps. Knowing the exact bezel size can be crucial for aligning UI elements, creating immersive experiences, or when you need pixel-perfect design layouts.
 
-Most of the things I work on are for the company I work at, and can't be detailed externally.
+### [docsify-charty](https://charty.docsify.markbattistella.com)
 
-But some of the personal things I've made are:
+Add some cool ass charts to your documentation system to show off your data
 
-- [**motherfudgingproxies.com**](https://motherfudgingproxies.com/)<br>A website that curates all the different proxy settings for application, OS, etc. to get through corporate networks
+### [motherfudgingproxies.com](https://motherfudgingproxies.com/)
 
-- [**markdown-safe-link**](https://markbattistella.github.io/markdown-safe-link-docs/)<br>Search and replace any unsafe urls in your repos using the Google Safe Browsing API. There is also the [Github action too](https://github.com/marketplace/actions/markdown-safe-link-action)!
+A website that curates all the different proxy settings for application, OS, etc. to get through corporate networks
 
-- [**gitrc**](https://github.com/markbattistella/gitrc)<br>Easily change between `.gitconfig` setups without destroying your old settings
+### [markdown-safe-link](https://markbattistella.github.io/markdown-safe-link-docs/)
 
-- [**docsify-charty**](https://charty.docsify.markbattistella.com)<br>Add some cool ass charts to your documentation system to show off your data
+Search and replace any unsafe urls in your repos using the Google Safe Browsing API. There is also the [Github action too](https://github.com/marketplace/actions/markdown-safe-link-action)!
 
-- [**docsify-autoHeaders**](https://autoheader.docsify.markbattistella.com)<br>Add the legal heading numbering to your documentation so you can point people to a reference number easily
+### [gitrc](https://github.com/markbattistella/gitrc)
 
-### "Books"
+Easily change between `.gitconfig` setups without destroying your old settings
+
+### [ZodiacKit](https://github.com/markbattistella/ZodiacKit)
+
+ZodiacKit is a Swift package that allows you to fetch Zodiac Sign information based on a given date. It provides a simple, efficient, and easily integrable solution for applications that deal with astrological data.
+
+## Books
 
 I have a couple of "books" in the Apple Book Store, which really aren't books but it was a great learning experience on how to properly publish items.
 
-- [**Sony NXCAM FS100 Picture Profile Styles**](https://books.apple.com/us/book/sony-nxcam-fs100-picture-profile-styles/id1028776054)<br>A preset book for the Sony NXCam FS100 camera
+### [Sony NXCAM FS100 Picture Profile Styles](https://books.apple.com/us/book/sony-nxcam-fs100-picture-profile-styles/id1028776054)
 
-- [**To The Ones That Got Away**](https://books.apple.com/us/book/to-the-ones-that-got-away/id1028779304)<br>A collection of images showing you can take decent images without spending a lot on expensive equipment
+A colour profiles preset book for the Sony NXCam FS100 camera
 
-### Where to find me
+### [To The Ones That Got Away](https://books.apple.com/us/book/to-the-ones-that-got-away/id1028779304)
 
-[![Website](https://img.shields.io/badge/website-markbattistella.com-0076D6?style=for-the-badge&logo=internetexplorer)](https://markbattistella.com)
-
-[![IMDb](https://img.shields.io/badge/IMDb-Mark%20Battistella-F5C518?style=for-the-badge&logo=imdb)](https://www.imdb.com/name/nm6546525)
-
-[![Vimeo](https://img.shields.io/badge/Vimeo-@markbattistella-1AB7EA?style=for-the-badge&logo=vimeo)](https://vimeo.com/markbattistella)
+A collection of images showing you can take decent images without spending a lot on expensive equipment
