@@ -50,7 +50,7 @@ Add some cool ass charts to your documentation system to show off your data
 
 A website that curates all the different proxy settings for application, OS, etc. to get through corporate networks
 
-### [markdown-safe-link](https://markbattistella.github.io/markdown-safe-link-docs/)
+### [markdown-safe-link](https://markbattistella.github.io/markdown-safe-link)
 
 Search and replace any unsafe urls in your repos using the Google Safe Browsing API. There is also the [Github action too](https://github.com/marketplace/actions/markdown-safe-link-action)!
 
